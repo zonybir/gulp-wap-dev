@@ -1,0 +1,14 @@
+{
+  "name": "gulp-text",
+  "version": "1.0.0",
+  "description": "to test gulp rev",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "zonybir",
+  "license": "ISC"
+}
