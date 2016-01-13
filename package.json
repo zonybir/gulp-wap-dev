@@ -2,6 +2,18 @@
   "name": "gulp-text",
   "version": "1.0.0",
   "description": "to test gulp rev",
+  "devDependencies": {
+      "gulp": "~0.4.1",
+      "gulp-csso": "^1.0.1",
+      "gulp-jshint": "^0.5.0",
+      "gulp-uglify": "^0.8.0",
+      "gulp-concat": "^0.6.0",
+      "gulp-clean": "^0.6.1",
+      "gulp-rename": "^0.8.0",
+      "gulp-rev": "^0.6.0",
+      "gulp-rev-collector": "^0.6.1",
+      "gulp-compile-handlebars": "^0.6.1"
+  },
   "main": "app.js",
   "scripts": {
     "test": "node app"
